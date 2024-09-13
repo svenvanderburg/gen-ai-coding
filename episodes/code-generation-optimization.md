@@ -36,6 +36,32 @@ Using Codeium as AI-assistant:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+TODO
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+**Exercise 2: Optimization with Codeium**
+*Objective:* Use Codeium to improve existing code
+
+*Instructions:*
+- Provide a sample code that needs optimization (will be an example from the medical field or, alternatively, I’ll search on stack exchange)
+- Use Codeium to suggest improvements and restructure the code
+- Compare the original and restructured versions (clarity, length…)
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+TODO
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+**Exercise 3: Debugging Assistance**
+*Objective:* Use Codeium to identify and fix bugs
+
+*Instructions:* 
+- You are presented with a code snippet with errors
+- Use Codeium to detect and propose fixes
+- Apply and test the corrections
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 TODO
