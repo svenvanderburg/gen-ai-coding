@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Coding Efficiency"
-teaching: TBD
-exercises: TBD
+teaching: 25
+exercises: 15
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -84,7 +84,7 @@ The following shortcuts can be used to speed up your workflow:
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Autocomplete Exploration
+## Autocomplete Exploration (10 min)
 
 Familiarize yourself with Codeium's autocomplete feature by practicing coding tasks. Create the function `analyze_co2_trends()` that processes the CO2 data in `weekly_in_situ_co2_mlo.csv` to calculate monthly average CO2 concentrations and visualizes the trend over time. The function should:
 
@@ -161,7 +161,7 @@ Note that Codeium's autocomplete feature may also suggest docstrings as you type
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Generate Docstrings
+## Generate Docstrings (5 min)
 
 Modify the `analyze_co2_trends()` function you created earlier to add a detailed docstring using Codeium's `Docstring` lens. The docstring should:
 
