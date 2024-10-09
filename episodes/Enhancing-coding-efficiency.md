@@ -28,7 +28,7 @@ A key feature of Codeium is its autocomplete function: with every keystroke, Cod
 
 ![](episodes/fig/acceleration.gif){alt='Autocomplete Function'}
 
-This feature can be particularly useful when you're writing repetitive code or boilerplate, as it can save you time and reduce the likelihood of errors. By leveraging Codeium's autocomplete function, you can speed up your coding process and focus on the more creative and challenging aspects of your work.
+This feature can be particularly useful when you're writing boilerplate code (which refers to repetitive code that often serves as a standard template), as it can save you time and reduce the likelihood of errors. By leveraging Codeium's autocomplete function, you can speed up your coding process and focus on the more creative and challenging aspects of your work.
 
 ### Boilerplate, Formatting, and More
 
