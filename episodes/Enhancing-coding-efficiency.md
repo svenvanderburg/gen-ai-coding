@@ -158,7 +158,7 @@ In the [previous episode](add link), we explored the `Refactor` code lens. Now, 
 
 When you click on `Docstring`, Codeium will automatically generate a docstring above the function header. In Python for example, the docstring will be correctly placed directly beneath the function header.
 
-![](episodes/fig/jetbrains_docstrings.mp4){alt='Docstring generation'}
+![](episodes/fig/jetbrains_docstrings.gif){alt='Docstring generation'}
 
 ::::::::::::::::::::::::::::::::::::: callout 
 
