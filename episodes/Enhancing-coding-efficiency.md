@@ -69,9 +69,18 @@ You can guide the autocomplete feature by using comments within your code. Codei
 The following shortcuts can be used to speed up your workflow: 
 
 - `Tab` = accept suggestion
+- `Esc` = clear suggestions
+
+#### MacOS
+
 - `Cmd` + `Left Arrow` = accept next word in suggestion
 - `Option` + `]` = next suggestion
-- `Esc` = clear suggestions 
+
+#### Windows/Linux
+
+- `Ctrl` + `Left Allow` = accept next word in suggestion
+- `Alt` + `]` = next suggestion
+
 
 ### Best Practices
 
