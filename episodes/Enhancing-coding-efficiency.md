@@ -28,7 +28,7 @@ A key feature of Codeium is its autocomplete function: with every keystroke, Cod
 
 ![](episodes/fig/acceleration.gif){alt='Autocomplete Function'}
 
-This feature can be particularly useful when you're writing repetitive code or boilerplate, as it can save you time and reduce the likelihood of errors. By leveraging Codeium's autocomplete function, you can speed up your coding process and focus on the more creative and challenging aspects of your work.
+This feature can be particularly useful when you're writing boilerplate code (which refers to repetitive code that often serves as a standard template), as it can save you time and reduce the likelihood of errors. By leveraging Codeium's autocomplete function, you can speed up your coding process and focus on the more creative and challenging aspects of your work.
 
 ### Boilerplate, Formatting, and More
 
@@ -69,9 +69,18 @@ You can guide the autocomplete feature by using comments within your code. Codei
 The following shortcuts can be used to speed up your workflow: 
 
 - `Tab` = accept suggestion
+- `Esc` = clear suggestions
+
+#### MacOS
+
 - `Cmd` + `Left Arrow` = accept next word in suggestion
 - `Option` + `]` = next suggestion
-- `Esc` = clear suggestions 
+
+#### Windows/Linux
+
+- `Ctrl` + `Left Allow` = accept next word in suggestion
+- `Alt` + `]` = next suggestion
+
 
 ### Best Practices
 
@@ -149,7 +158,7 @@ In the [previous episode](add link), we explored the `Refactor` code lens. Now, 
 
 When you click on `Docstring`, Codeium will automatically generate a docstring above the function header. In Python for example, the docstring will be correctly placed directly beneath the function header.
 
-![](episodes/fig/jetbrains_docstrings.mp4){alt='Docstring generation'}
+![](episodes/fig/jetbrains_docstrings.gif){alt='Docstring generation'}
 
 ::::::::::::::::::::::::::::::::::::: callout 
 
